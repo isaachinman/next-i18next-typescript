@@ -1,0 +1,31 @@
+# Dependencies
+node_modules
+
+# Dist
+dist
+.next
+out
+
+# OS
+.DS_Store
+
+# Development Environment
+.vscode
+.idea
+
+# Logs
+*.log
+
+# Testing
+coverage/
+/coverage
+/cypress/videos
+/cypress/screenshots
+/cypress/plugins
+/cypress/support
+/cypress/fixtures/example.json
+cypress.json
+!/cypress/cypress.json
+
+# npm
+package-lock.json
