@@ -1,6 +1,10 @@
 import Head from 'next/head'
 
-export const Header = ({ title }) => (
+type Props = {
+  title: string
+}
+
+export const Header: React.FC<Props> = ({ title }) => (
   <>
     <Head>
       <title>next-i18next</title>

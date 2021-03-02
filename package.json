@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "next": "^10.0.7",
-    "next-i18next": "^8.0.2",
+    "next-i18next": "^8.0.6",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
