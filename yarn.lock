@@ -1128,10 +1128,10 @@ native-url@0.3.4:
   dependencies:
     querystring "^0.2.0"
 
-next-i18next@^8.0.6:
-  version "8.0.6"
-  resolved "https://registry.yarnpkg.com/next-i18next/-/next-i18next-8.0.6.tgz#879bcec40c6e06b48f8983d55f9c1cd1ef93244a"
-  integrity sha512-XvSWf1w71mdc6rFzfI7DkiJ25qq9F5QcLPOmyi7YUVjVl6wPh3wntXyEGtaFTKpegEPM1iDR0daG69jn75mW4A==
+next-i18next@8.1.1:
+  version "8.1.1"
+  resolved "https://registry.yarnpkg.com/next-i18next/-/next-i18next-8.1.1.tgz#ba53bfd6c33b7dcd798a9942a50ddd85c489d95f"
+  integrity sha512-B/AHX/JV8GJBVYBrtjr//wJQN2JnCVMD7HTUnwNlxJPeNnO5qtSJT7q8jBtZVeJnp5htZXw9Aq3PEsh3eAe8EQ==
   dependencies:
     "@types/hoist-non-react-statics" "^3.3.1"
     "@types/i18next-fs-backend" "^1.0.0"
